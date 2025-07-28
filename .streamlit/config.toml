@@ -1,0 +1,4 @@
+[server]
+# Specify the Python version to use for the app
+# Python 3.10 is a stable and well-supported version for TensorFlow 2.15.0
+python_version = "3.10"
